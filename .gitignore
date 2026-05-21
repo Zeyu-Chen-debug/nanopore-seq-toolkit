@@ -1,0 +1,39 @@
+# Third-party tools — install separately, do not commit
+minimap2/
+miniasm/
+
+# Sequencing data and intermediate outputs
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fa
+*.fasta
+*.bam
+*.bam.bai
+*.vcf
+*.vcf.gz
+*.vcf.gz.csi
+*.paf
+*.paf.gz
+*.bed
+*.bed.gz
+*.gfa
+*.xlsx
+
+# Figures
+*.png
+*.pdf
+*.svg
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
