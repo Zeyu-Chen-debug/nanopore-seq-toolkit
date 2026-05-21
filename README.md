@@ -12,7 +12,7 @@ interface — run any of them with `-h` to see its options.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/nanopore-seq-toolkit.git
+git clone https://github.com/Zeyu-Chen-debug/nanopore-seq-toolkit.git
 cd nanopore-seq-toolkit
 pip install -r requirements.txt
 ```
